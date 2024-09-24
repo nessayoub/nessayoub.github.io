@@ -21,7 +21,7 @@ repository:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.JPG"
+  avatar: "profile.jpeg"
   name: "Ayoub El-Niss"
   pronouns: # example: "she/her"
   bio: "Federated Learning Researcher / Data Scientist"

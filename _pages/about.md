@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ayoub El-Niss"
+title:
 author_profile: true
 redirect_from:
   - /about/
