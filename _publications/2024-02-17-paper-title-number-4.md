@@ -3,7 +3,7 @@ title: "Multimodal Fusion for Disaster Event Classification on Social Media: A D
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: This paper explores the intersection of federated learning and disaster identification
+excerpt: This paper explores the intersection of federated learning and disaster identification.
 date: 2023-12-21
 venue: "Proceedings of the 7th International Conference on Future Networks and Distributed Systems (ICFNDS'23)"
 paperurl: "http://nessayoub.github.io/files/ACM_ICFNDS_Paper.pdf"
