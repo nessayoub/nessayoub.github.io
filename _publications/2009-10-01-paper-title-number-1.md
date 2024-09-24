@@ -7,7 +7,7 @@ excerpt: " introducing SimProx, a novel federated learning aggregation approach 
 date: 2024-10-01
 venue: "IEEE Open Journal of The Communications Society"
 # slidesurl: "http://academicpages.github.io/files/slides1.pdf"
-paperurl: "http://academicpages.github.io/files/IEEE_OJCOMM.pdf"
+paperurl: "http://nessayoub.github.io/files/IEEE_OJCOMM.pdf"
 citation: "Ayoub El-Niss, Ahmad Alzu’bi, Abdelrahman Abuarqoub, Mohammad Hammoudeh, Ammar Muthanna (2024). SimProx: A Similarity-Based Aggregation in Federated Learning with Client Weight Optimization; <i>IEEE Open Journal of The Communications Society</i>."
 ---
 
