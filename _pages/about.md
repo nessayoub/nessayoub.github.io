@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ayoub El-Niss, a passionate Data Scientist and Federated Learning Researcher with a strong background in Computer Science. I graduated with a BS in Computer Science from Jordan University of Science and Technology in 2024.
+I'm Ayoub El-Niss, a Machine Learning Researcher focused on private and trustworthy AI. I hold a BS in Computer Science from Jordan University of Science and Technology, earned in 2024.
 
-Currently, I'm working as a Data Scientist at Jordan Open Source Association, where I'm building and fine-tuning language models to detect gender-based hate speech in diverse Arabic dialects on social media.
-
-I'm a published researcher, with a paper titled "SimProx: A Similarity-Based Aggregation in Federated Learning with Client Weight Optimization" published in the IEEE Opeen Journal of the Communications Society and another paper titled " Multimodal Fusion for Disaster Event Classification on Social Media: A Deep Federated Learning Approach" presented at the 7th International Conference on Future Networks & Distributed Systems (ICFNDS'23)
+I currently work as a Machine Learning Research Engineer at Samsung Research, developing Galaxy on-device AI systems. Previously, I was a Data Scientist at the Jordan Open Source Association (JOSA), where I built AI models for detecting hate speech across regional dialects.
