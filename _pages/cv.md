@@ -7,58 +7,46 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Professional Experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Samsung Research — ML Research Engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Contributing to on-device AI systems for Samsung Galaxy, focusing on neural machine translation and wake word detection.
+- Optimizing multilingual translation models for real-time, low-latency performance on mobile hardware.
+- Enhancing wake word detection pipelines using lightweight deep learning architectures and embedded deployment techniques.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Jordan Open Source Association — Data Scientist
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Fine-tuned transformer-based models for detecting gender-based hate speech in Arabic dialects(Egyptian, Iraqi and Kurdish).
+- Built NLP pipelines for extracting, cleaning, annotating over 200,000 social media entries.
+- Authored data annotation guidelines adopted across multi-team workflows.
+- Performed dialect identification, normalization, and model error analysis to refine classifier precision.
+
+### Jordan University of Science and Technology — AI Researcher
+
+- First author of two peer-reviewed papers in federated learning and multimodal classification.
+- Proposed aggregation algorithm lowering training rounds by 67%, improving accuracy by 10% over FedAvg.
+- Designed and optimized deep architectures with 20% efficiency gains.
+- Investigating GAN-based solutions to reduce client data heterogeneity in federated systems.
+
+---
+
+## Education
+
+**BS in Computer Science** — Jordan University of Science and Technology  
+_2020 – 2024_
+
+- GPA: 3.6/4.0 (Dean’s List, 2024)
+- Research: Trustworthy AI, ML Systems, Federated Learning
+
+---
+
+## Skills
+
+**Languages:** Python, C++  
+**Frameworks:** PyTorch, TensorFlow, Flower, FastAPI, Streamlit  
+**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy  
+**Tools:** Git, Docker, Linux, Bash  
+**Techniques:** Deep Learning, Federated Learning, NLP, Computer Vision, Generative AI, Data Analysis
